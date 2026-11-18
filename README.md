@@ -9,7 +9,7 @@
 
 ---
 
-## 🇬🇧 English Profile
+## English Profile
 
 ### 🚀 About Me
 - 🏦 **Banking & Enterprise IT Experience:** Worked managing **Sybase, PostgreSQL, and MySQL** databases, optimizing **Stored Procedures**, maintaining internal web reporting systems in **C#**, deploying **PHP (Laravel) + Ionic** applications, and supporting **COBIS** core banking operations.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🇪🇸 Perfil en Español
+## Perfil en Español
 
 ### 🚀 Sobre Mí
 - 🏦 **Experiencia en TI y Sector Bancario:** Desempeño administrando bases de datos **Sybase, PostgreSQL y MySQL**, optimizando **Stored Procedures**, manteniendo plataformas web de reportería en **C#**, desplegando aplicaciones en **PHP (Laravel) + Ionic** y dando soporte al core bancario **COBIS**.
