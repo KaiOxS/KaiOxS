@@ -57,5 +57,5 @@
 
 ## 📫 Contact / Contacto
 - 📧 **Email / Correo:** [anthonycs9926@gmail.com](mailto:anthonycs9926@gmail.com)
-- 🔗 **LinkedIn:** [Frank Anthony Cajamarca Santacruz](www.linkedin.com/in/anthony-cajamarca-9926km)
+- 🔗 **LinkedIn:** [Frank Anthony Cajamarca Santacruz](https://www.linkedin.com/in/anthony-cajamarca-9926km/)
 - 💻 **GitHub:** [github.com/KaiOxS](https://github.com/KaiOxS)
