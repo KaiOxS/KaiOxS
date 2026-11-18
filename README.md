@@ -12,7 +12,7 @@
 ## 🇬🇧 English Profile
 
 ### 🚀 About Me
-- 🏦 **Banking & Enterprise IT Experience:** Worked at **Banco Amibank** managing **Sybase, PostgreSQL, and MySQL** databases, optimizing **Stored Procedures**, maintaining internal web reporting systems in **C#**, deploying **PHP (Laravel) + Ionic** applications, and supporting **COBIS** core banking operations.
+- 🏦 **Banking & Enterprise IT Experience:** Worked managing **Sybase, PostgreSQL, and MySQL** databases, optimizing **Stored Procedures**, maintaining internal web reporting systems in **C#**, deploying **PHP (Laravel) + Ionic** applications, and supporting **COBIS** core banking operations.
 - ⚙️ **Backend & ERP Development:** Building RESTful APIs with **Java (Quarkus)** using token-based authentication, and developing custom modules in **Python** for **Odoo ERP**.
 - 🌐 **Frontend, Mobile & Cloud:** Creating modern interfaces with **Vue.js, TypeScript, HTML5/CSS3, and Android Studio**, and working with **Docker, Microsoft Azure, IIS, and Git**.
 
@@ -21,7 +21,7 @@
 ## 🇪🇸 Perfil en Español
 
 ### 🚀 Sobre Mí
-- 🏦 **Experiencia en TI y Sector Bancario:** Desempeño en **Banco Amibank** administrando bases de datos **Sybase, PostgreSQL y MySQL**, optimizando **Stored Procedures**, manteniendo plataformas web de reportería en **C#**, desplegando aplicaciones en **PHP (Laravel) + Ionic** y dando soporte al core bancario **COBIS**.
+- 🏦 **Experiencia en TI y Sector Bancario:** Desempeño administrando bases de datos **Sybase, PostgreSQL y MySQL**, optimizando **Stored Procedures**, manteniendo plataformas web de reportería en **C#**, desplegando aplicaciones en **PHP (Laravel) + Ionic** y dando soporte al core bancario **COBIS**.
 - ⚙️ **Desarrollo Backend y ERP:** Construcción de APIs RESTful con **Java (Quarkus)** incluyendo autenticación por tokens, y creación de módulos personalizados en **Python** para **Odoo ERP**.
 - 🌐 **Frontend, Móvil y Cloud:** Desarrollo de interfaces web y móviles con **Vue.js, TypeScript, HTML5/CSS3 y Android Studio**, utilizando contenedores **Docker, Microsoft Azure, IIS y Git**.
 
