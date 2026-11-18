@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony Cajamarca (KaiOxS) 👋 | ¡Hola! Soy Anthony Cajamarca 👋
+# Hi there, I'm Anthony Cajamarca 👋 | ¡Hola! Soy Anthony Cajamarca 👋
 
 **Computer Engineering Student (10th Semester) @ Universidad Central del Ecuador**  
 **Estudiante de Ingeniería en Computación (10.º Semestre) @ Universidad Central del Ecuador**
