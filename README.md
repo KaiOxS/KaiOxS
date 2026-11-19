@@ -3,8 +3,8 @@
 **Computer Engineering Student (10th Semester) @ Universidad Central del Ecuador**  
 **Estudiante de Ingeniería en Computación (10.º Semestre) @ Universidad Central del Ecuador**
 
-💻 Junior Software Developer | Backend, Databases & Cloud  
-💻 Desarrollador de Software Junior | Backend, Bases de Datos y Cloud  
+💻 Software Developer | Backend, Databases & Cloud  
+💻 Desarrollador de Software | Backend, Bases de Datos y Cloud  
 📍 Quito, Ecuador
 
 ---
@@ -12,18 +12,18 @@
 ## English Profile
 
 ### 🚀 About Me
-- 🏦 **Banking & Enterprise IT Experience:** Worked managing **Sybase, PostgreSQL, and MySQL** databases, optimizing **Stored Procedures**, maintaining internal web reporting systems in **C#**, deploying **PHP (Laravel) + Ionic** applications, and supporting **COBIS** core banking operations.
-- ⚙️ **Backend & ERP Development:** Building RESTful APIs with **Java (Quarkus)** using token-based authentication, and developing custom modules in **Python** for **Odoo ERP**.
-- 🌐 **Frontend, Mobile & Cloud:** Creating modern interfaces with **Vue.js, TypeScript, HTML5/CSS3, and Android Studio**, and working with **Docker, Microsoft Azure, IIS, and Git**.
+- 💻 **Software Development & System Migrations:** Engineering custom enterprise modules in **Python**, executing cross-version migrations (**Odoo v17 → v18 → v19**), provisioning local development environments, and managing release workflows to **Test** and **Production** using **Git** on **PaaS** platforms.
+- 🏦 **Databases & Banking IT Experience:** Querying and administering **PostgreSQL** (including shell/CLI operations with **psql**), **Sybase**, and **MySQL** databases, optimizing **Stored Procedures**, maintaining internal web reporting systems in **C#**, deploying **PHP (Laravel) + Ionic** applications, and supporting **COBIS** core banking operations.
+- ⚙️ **Backend, Frontend & Cloud:** Building RESTful APIs with **Java (Quarkus)** using token-based authentication, creating web and mobile interfaces with **Vue.js, TypeScript, HTML5/CSS3, and Android Studio**, and working with **Docker, Microsoft Azure, IIS, and Git**.
 
 ---
 
 ## Perfil en Español
 
 ### 🚀 Sobre Mí
-- 🏦 **Experiencia en TI y Sector Bancario:** Desempeño administrando bases de datos **Sybase, PostgreSQL y MySQL**, optimizando **Stored Procedures**, manteniendo plataformas web de reportería en **C#**, desplegando aplicaciones en **PHP (Laravel) + Ionic** y dando soporte al core bancario **COBIS**.
-- ⚙️ **Desarrollo Backend y ERP:** Construcción de APIs RESTful con **Java (Quarkus)** incluyendo autenticación por tokens, y creación de módulos personalizados en **Python** para **Odoo ERP**.
-- 🌐 **Frontend, Móvil y Cloud:** Desarrollo de interfaces web y móviles con **Vue.js, TypeScript, HTML5/CSS3 y Android Studio**, utilizando contenedores **Docker, Microsoft Azure, IIS y Git**.
+- 💻 **Desarrollo de Software y Migración de Sistemas:** Programación de módulos empresariales personalizados en **Python**, ejecución de migraciones entre versiones (**Odoo v17 → v18 → v19**), levantamiento de ambientes locales de desarrollo y gestión de paso a entornos de **Test** y **Producción** mediante **Git** en plataformas **PaaS**.
+- 🏦 **Bases de Datos y Experiencia en TI Bancario:** Administración y consultas en **PostgreSQL** (incluyendo manejo por consola/*shell* con **psql**), **Sybase** y **MySQL**, optimización de **Stored Procedures**, mantenimiento de plataformas web de reportería en **C#**, despliegue de aplicaciones en **PHP (Laravel) + Ionic** y soporte al core bancario **COBIS**.
+- ⚙️ **Backend, Frontend y Cloud:** Construcción de APIs RESTful con **Java (Quarkus)** incluyendo autenticación por tokens, desarrollo de interfaces web y móviles con **Vue.js, TypeScript, HTML5/CSS3 y Android Studio**, utilizando **Docker, Microsoft Azure, IIS y Git**.
 
 ---
 
@@ -48,6 +48,7 @@
 ![Sybase](https://img.shields.io/badge/Sybase_SQL-008FD3?style=flat-square&logo=sap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/Shell_%2F_psql-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
